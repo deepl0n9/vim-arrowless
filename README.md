@@ -6,6 +6,16 @@ vim-arrowless is vim plugin to disable arrows movement in vim,make your finger m
 
 > git clone https://github.com/deepl0n9/vim-arrowless.git ~/.vim/bundle/Vundle.vim
 
+or you can install with plugin manager
+
+
+
+Install with Vundle
+
+```vim
+Plugin 'Deepl0n9/vim-arrowless'
+``` 
+
 # Notes
 
 be sure you dont mapping arrow keys before (`<Up>,<Down>,<Right>,<Left>`)
