@@ -13,7 +13,7 @@ or you can install with plugin manager
 Install with Vundle
 
 ```vim
-Plugin 'Deepl0n9/vim-arrowless'
+Plugin 'deepl0n9/vim-arrowless'
 ``` 
 
 # Notes
