@@ -1,4 +1,4 @@
-# No arrows key in vim
+# No arrow keys in vim
  
 vim-arrowless is vim plugin to disable arrows movement in vim,make your finger more focus on the keyboard
 
@@ -24,4 +24,4 @@ you can check it with verbose command
 ```vim
 :verbose map <Up>
 ```
-also check for the other arrows keys
+also check for the other arrow keys
