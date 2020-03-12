@@ -25,3 +25,10 @@ you can check it with verbose command
 :verbose map <Up>
 ```
 also check for the other arrow keys
+
+# Screenshot
+
+
+<p align='center'>
+    <img width="400" src='./screenshot/ayotest.png' />
+</p>
