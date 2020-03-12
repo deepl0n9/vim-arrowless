@@ -28,7 +28,4 @@ also check for the other arrow keys
 
 # Screenshot
 
-
-<p align='center'>
-    <img width="400" src='./screenshot/ayotest.png' />
-</p>
+![arrowless](arrowless.gif)
