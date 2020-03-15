@@ -4,16 +4,16 @@ vim-arrowless is vim plugin to disable arrows movement in vim,make your finger m
 
 # Installation
 
-> git clone https://github.com/deepl0n9/vim-arrowless.git ~/.vim/bundle/vim-arrowless
+> git clone https://github.com/difaagh/vim-arrowless.git ~/.vim/bundle/vim-arrowless
 
 or you can install with plugin manager
 
 
 
-Install with Vundle
+Install with ![Vundle](https://github.com/VundleVim/Vundle.vim)
 
 ```vim
-Plugin 'deepl0n9/vim-arrowless'
+Plugin 'difaagh/vim-arrowless'
 ``` 
 
 # Notes
